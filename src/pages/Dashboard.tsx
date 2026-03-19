@@ -48,7 +48,7 @@ export default function Dashboard() {
                 <div className="mx-auto flex max-w-6xl items-center justify-between">
                     <div className="flex items-center space-x-2 text-blue-600">
                         <ImageIcon size={28} />
-                        <h1 className="text-xl font-bold text-gray-900">MG Album</h1>
+                        <h1 className="text-xl font-bold text-gray-900">김현채, 김휘림</h1>
                     </div>
 
                     <div className="flex items-center space-x-4">
